@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    
+}
+a:hover {
+    color: #e75d12;
+}
+.title {
+    color: #3213e3;
+    font-size: 30px;
+    text-align: center;
+
+}
+.photo {
+    display: block;
+    margin: 0 auto;
+}
+.social {
+    list-style: none;
+    margin: 15px;
+    li {
+        padding: 5px;
+    }
+}
